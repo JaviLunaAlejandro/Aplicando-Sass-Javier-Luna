@@ -1,0 +1,36 @@
+body{
+    margin: auto;
+    color: $txt-color;
+    background-color: $bg-body;
+    text-align: $centrado;
+}
+
+nav{
+    background-color: $bg-principal;
+}
+.imagenmod{
+    width: $imgmod-width;
+}
+img{
+    width: $img-width;
+}
+footer{
+    background-color: $bg-white;
+    width: $fo-width;
+    ul{
+        li{
+            display: $disp-foo;
+            text-align: $centrado;
+            width: $fo-width;
+            a{
+                text-decoration: $deco-foot;
+                color: black;
+            }
+        }
+    }
+}
+.articulo2{
+    font-size: large;
+    display: $disp-art;
+    grid-template-columns: $gtc-art;
+}
