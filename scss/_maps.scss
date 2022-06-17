@@ -1,0 +1,15 @@
+$decoration: (
+    primero: none,
+    segundo: center,
+);
+
+footer {
+    ul {
+        li {
+            text-align: map-get($decoration, segundo);
+            a{
+                text-decoration: map-get($decoration, primero );
+            }
+        }
+    }
+}

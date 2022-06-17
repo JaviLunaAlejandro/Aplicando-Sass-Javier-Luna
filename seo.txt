@@ -1,0 +1,16 @@
+agregados de seo:
+-keywords:
+--index.html: "autos, ford, chevrolet, peugeot, BMW, audi, mini, chery">
+--noticias.html: "seguridad, lanzamientos, ultimos articulos, testdrive, novedades,"
+--historias.html: "historias, autos antiguos, ford gt 40, 24horas de lemans, Henry Ford"
+
+-relleno del <title> en los 3 html 
+-- index.html: "Inicio - Encontra las noticias del mundo automotor"
+-- hisorias.html: "Historias - Los autos que dejaron una huella en la historia"
+-- noticias.html: "Noticias - seguridad,tecnología, confort y más"
+
+-ampliacion de "alt"
+--img 1= "chevrolet cruze rs frente"
+--img 2= "lateral del cruze rs, llantas con nuevo diseño"
+--img 3= "motor 1.4 turbo del cruze rs"
+--img 4= "interior del chevrolet, volante multifuncion y pantalla tactil"

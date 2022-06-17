@@ -1,13 +1,8 @@
 body{
     margin: auto;
-    color: $txt-color;
-    background-color: $bg-body;
     text-align: $centrado;
 }
 
-nav{
-    background-color: $bg-principal;
-}
 .imagenmod{
     width: $imgmod-width;
 }
@@ -15,8 +10,6 @@ img{
     width: $img-width;
 }
 footer{
-    background-color: $bg-white;
-    width: $fo-width;
     ul{
         li{
             display: $disp-foo;

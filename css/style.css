@@ -1,12 +1,6 @@
 body {
   margin: auto;
-  color: white;
-  background-color: #313d52;
   text-align: center;
-}
-
-nav {
-  background-color: rgb(31, 105, 161);
 }
 
 .imagenmod {
@@ -17,13 +11,8 @@ img {
   width: 80%;
 }
 
-footer {
-  background-color: white;
-  width: 100%;
-}
 footer ul li {
   display: inline-block;
-  text-align: center;
   width: 100%;
 }
 footer ul li a {
@@ -35,6 +24,25 @@ footer ul li a {
   font-size: large;
   display: grid;
   grid-template-columns: auto auto;
+}
+
+li {
+  text-decoration: none;
+  text-align: center;
+}
+
+body {
+  color: white;
+  background-color: #313d52;
+}
+
+nav {
+  background-color: rgb(31, 105, 161);
+}
+
+footer {
+  background-color: white;
+  width: 100%;
 }
 
 /*# sourceMappingURL=style.css.map */
